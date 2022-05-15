@@ -1,0 +1,33 @@
+.nav-style {
+    height: 125px;
+    background: rgb(106,160,36);
+}
+
+.nav-ul {
+    margin-top: 24px;
+}
+
+.section-header {
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+}
+
+.logo-smokefree {
+    width: 127px;
+    height: 91.7656px;
+    max-width: 146px;
+    min-width: 10px;
+    border-radius: 0px;
+    margin-top: 16px;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }  
+
